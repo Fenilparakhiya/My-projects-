@@ -1,0 +1,9 @@
+{"properties": [{
+  "name": "thymeleaf-layout-dialect.version",
+  "type": "java.lang.String",
+  "description": "A description for 'thymeleaf-layout-dialect.version'"
+}]}{"properties": [{
+  "name": "thymeleaf.version",
+  "type": "java.lang.String",
+  "description": "A description for 'thymeleaf.version'"
+}]}
