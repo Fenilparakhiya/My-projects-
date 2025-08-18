@@ -11,7 +11,7 @@ A responsive, modern **photo gallery** built with **React** and **Material UI**.
 - **Modern UI**: Material UI components, icons, dialogs, toasts
 - **State management**: React hooks + context (clean separation of UI and data)
 - **Scalable structure**: components, pages, hooks, utils, services
-- **(Optional)**Backend integration via `REACT_APP_API_BASE_URL`
+- Backend integration via `REACT_APP_API_BASE_URL`
 
 ---
 
