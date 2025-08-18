@@ -18,6 +18,7 @@ Link : https://github.com/Fenilparakhiya/My-projects-/tree/main/blogging-platfor
 A secure REST API for managing albums and photos with **JWT authentication**.  
 ➡️ Folder: `./Album-API`
 Link: https://github.com/Fenilparakhiya/My-projects-/tree/main/album-api
+
 **---**
 
 ## 🛠️ Tech Stack (Across Projects)
