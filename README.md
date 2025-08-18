@@ -17,8 +17,8 @@ Link : https://github.com/Fenilparakhiya/My-projects-/tree/main/blogging-platfor
 ### 3) Album Management Backend API (Spring Boot, H2, Spring Data JPA, JWT)
 A secure REST API for managing albums and photos with **JWT authentication**.  
 ➡️ Folder: `./Album-API`
-Link: https://github.com/Fenilparakhiya/My-projects-/tree/main/album-api**
----**
+Link: https://github.com/Fenilparakhiya/My-projects-/tree/main/album-api
+**---**
 
 ## 🛠️ Tech Stack (Across Projects)
 - **Languages:** Java, JavaScript
