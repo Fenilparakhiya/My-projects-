@@ -7,15 +7,17 @@ This repository showcases three full-stack applications demonstrating skills in 
 ### 1) Photo Gallery (React, Material UI)
 A responsive photo gallery with album **create/edit/delete** and seamless photo uploads.  
 ➡️ Folder: `./Photo-Gallery`
+Link : https://github.com/Fenilparakhiya/My-projects-/tree/main/Photo-Gallery
 
 ### 2) Blogging Platform (Spring Boot, Thymeleaf, H2)
 A full-stack blog with **authentication, role-based access**, and server-rendered views.  
 ➡️ Folder: `./Blogging-Platform`
+Link : https://github.com/Fenilparakhiya/My-projects-/tree/main/blogging-platform
 
 ### 3) Album Management Backend API (Spring Boot, H2, Spring Data JPA, JWT)
 A secure REST API for managing albums and photos with **JWT authentication**.  
 ➡️ Folder: `./Album-API`
-
+Link: https://github.com/Fenilparakhiya/My-projects-/tree/main/album-api
 ---
 
 ## 🛠️ Tech Stack (Across Projects)
